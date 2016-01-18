@@ -18,3 +18,14 @@
 	<script src="assets/js/unslider-min.js"></script>
 </head>
 <body>
+<div class="container">
+    <div class="row">
+    	<!-- header -->
+    	<div class="col-sm-12">
+    	
+    	</div>
+    	<!-- fim header-->
+    	<?php require_once("layouts/banner.php");?>
+    	<!-- banner -->
+    	
+    	<!-- fim banner-->
