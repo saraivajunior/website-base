@@ -6,7 +6,7 @@
 	<title></title>
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">
-	<link rel="stylesheet" href="assets/css/animate.min.css">
+	<link rel="stylesheet" href="assets/css/animate.css">
 	<link rel="stylesheet" href="assets/css/estilo.css">
 	<link rel="stylesheet" href="assets/css/owl.carousel.css">
 	<link rel="stylesheet" href="assets/css/unslider.css">
@@ -19,6 +19,7 @@
 </head>
 <body>
 <div class="container">
+	<div class="wrap">
     <div class="row">
     	<!-- header -->
     	<div class="col-sm-12">

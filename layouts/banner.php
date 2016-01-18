@@ -12,8 +12,8 @@
 <script>
 	$(function() { 
 		$('.banner').unslider({
-			autoplay: true;
-			animation: 'fade';
+			autoplay: true,
+			animation: 'fade'
 		});
 	})
 </script>
