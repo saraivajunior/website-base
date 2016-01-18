@@ -11,9 +11,9 @@
 	<link rel="stylesheet" href="assets/css/owl.carousel.css">
 	<link rel="stylesheet" href="assets/css/unslider.css">
 	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
-	<script src="assets/js/jquery-2.2.0.min.min.js"></script>
+	<script src="assets/js/jquery-2.2.0.min.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
-	<script src="assets/js/jquery.viewportchecker.min.min.js"></script>
+	<script src="assets/js/jquery.viewportchecker.min.js"></script>
 	<script src="assets/js/owl.carousel.min.js"></script>
 	<script src="assets/js/unslider-min.js"></script>
 </head>
