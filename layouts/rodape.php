@@ -1,6 +1,7 @@
-
+</div>
+</div>
 	<footer class="footer-distributed">
-
+		<div class="footer-container">
 			<div class="footer-left">
 
 				<h3>Company<span>logo</span></h3>
@@ -33,11 +34,8 @@
 			</div>
 
 			<div class="footer-right">
-
-				<p>Contato</p>
-
 				<form action="#" method="post">
-
+					<p>Contato</p><br /><br />
 					<input type="text" name="email" placeholder="E-mail" />
 					<textarea name="message" placeholder="Mensagem"></textarea>
 					<button>Send</button>
@@ -45,7 +43,7 @@
 				</form>
 
 			</div>
-
+		</div>
 		</footer>
 </body>
 </html>
