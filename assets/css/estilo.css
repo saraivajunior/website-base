@@ -1,3 +1,25 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+@import url(http://fonts.googleapis.com/css?family=Bitter:400,700);
+
+
+body {
+	font-family: 'Lato',Arial, sans-serif;
+	color: #777;
+	font-size: 16px;
+	line-height: 1.6;
+}
+
+h2{
+	font-family: 'Bitter',Georgia,serif; 
+	font-size: 40px;
+	font-weight: 900;
+	color: #222;
+	margin:0px;
+	line-height: 1.2;
+	margin-bottom: 20px;
+}
+
+
 .footer-distributed{
 	background-color: #292c2f;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
